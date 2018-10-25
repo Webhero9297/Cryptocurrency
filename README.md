@@ -9,8 +9,6 @@ Rime Coin (RIM) is a sustainable cryptocurrency modeled after Satoshi Nakamotoâ€
   with a collateral of 50,000 RIM.
 
 
-Please reach out at awareness@savebitcoin.io
-
 ### Coin Specs
 | Block Time                  | 120 Seconds     |
 | Premine                     | 166,500,000 RIM |
